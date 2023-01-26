@@ -5,8 +5,8 @@ description: "
     Hi, my name is Artem (Tim) Nikitin.
   </p>
   <p>
-    "I'm an ex-journalist, software engineer, data scientist, machine learning practitioner, writer and open-source <a href='https://github.com/sharadcodes' target='_blank'>contributor</a>.
-    "Check out my story, my blog, tech talks, volunteering, CV"
+    I'm an ex-journalist, software engineer, data scientist, machine learning practitioner, writer and open-source <a href='https://github.com/sharadcodes' target='_blank'>contributor</a>.
+    Check out my story, my blog, tech talks, volunteering, CV
   </p>
 "
 email: dev_sharad@outlook.com
@@ -16,6 +16,8 @@ contact:
   - title: github
     url: https://github.com/artnikitin
   - title: twitter
+    url: https://twitter.com/artnikitin
+  - title: dev
     url: https://twitter.com/artnikitin
   - title: email
     url: mailto:artnikitin@gmail.com
